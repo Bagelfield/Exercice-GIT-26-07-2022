@@ -1,13 +1,5 @@
 ------------------------------------------------------------GIT------------------------------------------------------------
 
---------------------------------------------------------- FICHIERS --------------------------------------------------------
-
-- README.md //documentation du projet
-- .gitignore //ignorer des fichiers dans le pull
-- .gitkeep //conserver dossier vide
-
-
-
 --------------------------------------------------------- COMMANDES -------------------------------------------------------
 
 - git {command} --help
@@ -25,6 +17,12 @@
 - git branch //affiche les branches
 - git branch -m old_name new_name //renommer une branche en new_name
 - git branch -d user //supprime la branche user
+
+- Début de recette
+1. La veille, brossez votre morue (cabillaud salé) sous l'eau courante et coupez-la en gros morceaux. 
+Mettez-les dans une passoire à pied peau vers le haut, et faites dessaler à l'eau froide pendant 24 h en renouvelant l'eau 3 ou 4 fois.
+2.Le jour même, faites cuire les pommes de terre 25 minutes à l'eau bouillante salée. 
+Egouttez, épluchez et coupez-les en tranches. Emincez les oignons et les gousses d'ail puis coupez les tomates en petits dés
 
 - git add <fichier.txt>
 - git add --all //ajoute tous les fichiers sauf ceux du .gitignore
@@ -50,10 +48,7 @@
 
 - git pull origin main //fusionne deux branches depuis le main du dépôt distant (PULL = FETCH + MERGE)
 
-- git checkout {id} //regarder l'état du dépôt à partir de l'id d'un commit
-- git checkout {id} file.txt //restaurer un fichier à partir d'un commit à son état datant du commit
-- git checkout file.txt // restaurer un fichier tel qu'il était au niveau HEAD
-- git checkout {name_of_current_branch} //sortir du mode spectateur
+
 
 - git reset {id} –soft //supprime les commits après l'id indiqué / Conserve les modifications effectuées / Conserve les fichiers modifiés dans l'index
 - git reset {id} –mixed //supprime les commits après l'id indiqué / NE conserve PAS les modifications effectuées / Conserve les fichiers modifiés dans l'index
@@ -71,6 +66,30 @@
 ● Push : permet d’envoyer les modifications commitées du depôt local vers le dépôt distant.
 ● Pull : récupérer les commits depuis le dépôt distant (ex: Github) en local.
 ● Clone : récupérer un dépôt distant en local.
+
+
+--------------------------------------------------------- COMMANDES EBAY -------------------------------------------------------
+
+À acheter :
+
+PC gamer : https://www.ebay.fr/itm/125245136534?hash=item1d29311e96:g:VFwAAOSwAjtiTfGz
+
+PC Portable Gamer : https://www.ebay.fr/itm/234627322188?hash=item36a0e0d14c:g:dtgAAOSwrmFisv7u
+
+
+
+--------------------------------------------------------- ACHATS -------------------------------------------------------
+
+À acheter : 
+
+- lubrifiant
+- papier toilettes
+- Paumade pour peau de bébé
+- bouquet de fleur
+- parfum
+- Gel douche
+- Tac pour les odeurs de pieds
+
 ● Checkout : visualiser ou revenir en arrière, également créer une branche et s’y déplacer.
 ● Log : visualiser l’historique des commits.
 ● Merge : action de fusionner deux versions (branches) d’un projet.
@@ -82,3 +101,10 @@
 ● Tag : attribuer un numéro de version avec un message à un commit.
 ● Mv : déplacer ou renommer un fichier.
 ● Rm : supprimer un fichier.
+
+
+* cd : changer le répertoire de travail
+* pwd : affiche le répertoire de travail courant
+* mkdir : créé un répertoire
+* touch : créé un fichier
+* dev : caca
