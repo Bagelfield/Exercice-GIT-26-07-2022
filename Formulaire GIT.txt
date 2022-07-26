@@ -4,7 +4,7 @@
 
 - README.md //documentation du projet
 - .gitignore //ignorer des fichiers dans le pull
-- .gitkeep //conserver dossier vide
+
 
 
 
