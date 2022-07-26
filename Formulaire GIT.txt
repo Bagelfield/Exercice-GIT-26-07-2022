@@ -18,6 +18,12 @@
 - git branch -m old_name new_name //renommer une branche en new_name
 - git branch -d user //supprime la branche user
 
+- Début de recette
+1. La veille, brossez votre morue (cabillaud salé) sous l'eau courante et coupez-la en gros morceaux. 
+Mettez-les dans une passoire à pied peau vers le haut, et faites dessaler à l'eau froide pendant 24 h en renouvelant l'eau 3 ou 4 fois.
+2.Le jour même, faites cuire les pommes de terre 25 minutes à l'eau bouillante salée. 
+Egouttez, épluchez et coupez-les en tranches. Emincez les oignons et les gousses d'ail puis coupez les tomates en petits dés
+
 - git add <fichier.txt>
 - git add --all //ajoute tous les fichiers sauf ceux du .gitignore
 - git commit -m "<argument>"
@@ -42,10 +48,7 @@
 
 - git pull origin main //fusionne deux branches depuis le main du dépôt distant (PULL = FETCH + MERGE)
 
-- git checkout {id} //regarder l'état du dépôt à partir de l'id d'un commit
-- git checkout {id} file.txt //restaurer un fichier à partir d'un commit à son état datant du commit
-- git checkout file.txt // restaurer un fichier tel qu'il était au niveau HEAD
-- git checkout {name_of_current_branch} //sortir du mode spectateur
+
 
 - git reset {id} –soft //supprime les commits après l'id indiqué / Conserve les modifications effectuées / Conserve les fichiers modifiés dans l'index
 - git reset {id} –mixed //supprime les commits après l'id indiqué / NE conserve PAS les modifications effectuées / Conserve les fichiers modifiés dans l'index
