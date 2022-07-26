@@ -82,3 +82,9 @@
 ● Tag : attribuer un numéro de version avec un message à un commit.
 ● Mv : déplacer ou renommer un fichier.
 ● Rm : supprimer un fichier.
+
+http://www2.ift.ulaval.ca/~eude/Gif-1003/Initiation_a_git/Labo%20sur%20Git_fichiers/Les%20bases%20de%20Git.pdf
+https://www.pierre-giraud.com/git-github-apprendre-cours/
+https://www.hostinger.fr/tutoriels/tuto-git 
+okay 
+
