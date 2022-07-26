@@ -83,3 +83,4 @@
 ● Mv : déplacer ou renommer un fichier.
 ● Rm : supprimer un fichier.
 * cd : changer le répertoire de travail
+* pwd : affiche le répertoire de travail courant
