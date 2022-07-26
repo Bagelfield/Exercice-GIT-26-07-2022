@@ -50,10 +50,7 @@
 
 - git pull origin main //fusionne deux branches depuis le main du dépôt distant (PULL = FETCH + MERGE)
 
-- git checkout {id} //regarder l'état du dépôt à partir de l'id d'un commit
-- git checkout {id} file.txt //restaurer un fichier à partir d'un commit à son état datant du commit
-- git checkout file.txt // restaurer un fichier tel qu'il était au niveau HEAD
-- git checkout {name_of_current_branch} //sortir du mode spectateur
+
 
 - git reset {id} –soft //supprime les commits après l'id indiqué / Conserve les modifications effectuées / Conserve les fichiers modifiés dans l'index
 - git reset {id} –mixed //supprime les commits après l'id indiqué / NE conserve PAS les modifications effectuées / Conserve les fichiers modifiés dans l'index
