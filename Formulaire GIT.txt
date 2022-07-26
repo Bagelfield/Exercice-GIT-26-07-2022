@@ -107,3 +107,4 @@ PC Portable Gamer : https://www.ebay.fr/itm/234627322188?hash=item36a0e0d14c:g:d
 * pwd : affiche le répertoire de travail courant
 * mkdir : créé un répertoire
 * touch : créé un fichier
+* dev : caca
