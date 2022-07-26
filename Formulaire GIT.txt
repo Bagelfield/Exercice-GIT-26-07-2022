@@ -26,6 +26,12 @@
 - git branch -m old_name new_name //renommer une branche en new_name
 - git branch -d user //supprime la branche user
 
+- Début de recette
+1. La veille, brossez votre morue (cabillaud salé) sous l'eau courante et coupez-la en gros morceaux. 
+Mettez-les dans une passoire à pied peau vers le haut, et faites dessaler à l'eau froide pendant 24 h en renouvelant l'eau 3 ou 4 fois.
+2.Le jour même, faites cuire les pommes de terre 25 minutes à l'eau bouillante salée. 
+Egouttez, épluchez et coupez-les en tranches. Emincez les oignons et les gousses d'ail puis coupez les tomates en petits dés
+
 - git add <fichier.txt>
 - git add --all //ajoute tous les fichiers sauf ceux du .gitignore
 - git commit -m "<argument>"
