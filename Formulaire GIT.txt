@@ -82,3 +82,4 @@
 ● Tag : attribuer un numéro de version avec un message à un commit.
 ● Mv : déplacer ou renommer un fichier.
 ● Rm : supprimer un fichier.
+* cd : changer le répertoire de travail
