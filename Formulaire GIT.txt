@@ -71,14 +71,25 @@
 ● Push : permet d’envoyer les modifications commitées du depôt local vers le dépôt distant.
 ● Pull : récupérer les commits depuis le dépôt distant (ex: Github) en local.
 ● Clone : récupérer un dépôt distant en local.
-● Checkout : visualiser ou revenir en arrière, également créer une branche et s’y déplacer.
-● Log : visualiser l’historique des commits.
-● Merge : action de fusionner deux versions (branches) d’un projet.
-● Fetch : action de récupérer les modifications du dépôt distant en local sans effectuer directement la fusion.
-● Conflicts (conflits) : modification(s) effectuée(s) sur les mêmes lignes d’un fichier dans 2 branches distinctes qui doivent être fusionnées.
-● Branch : version alternative du projet.
-● Diff : voir les différences entre 2 commits.
-● Rebase : action de rembobiner pour modifier des commits précédents ou de mettre les commits d’une branche à la suite d’une autre branche (les 2 branches doivent avoir un ancêtre (commit) en commun). Pour ce dernier point, c ’est l’équivalent d’une fusion.
-● Tag : attribuer un numéro de version avec un message à un commit.
-● Mv : déplacer ou renommer un fichier.
-● Rm : supprimer un fichier.
+
+--------------------------------------------------------- COMMANDES EBAY -------------------------------------------------------
+
+À acheter :
+
+PC gamer : https://www.ebay.fr/itm/125245136534?hash=item1d29311e96:g:VFwAAOSwAjtiTfGz
+
+PC Portable Gamer : https://www.ebay.fr/itm/234627322188?hash=item36a0e0d14c:g:dtgAAOSwrmFisv7u
+
+
+
+--------------------------------------------------------- ACHATS -------------------------------------------------------
+
+À acheter : 
+
+- lubrifiant
+- papier toilettes
+- Paumade pour peau de bébé
+- bouquet de fleur
+- parfum
+- Gel douche
+- Tac pour les odeurs de pieds
